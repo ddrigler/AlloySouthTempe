@@ -1,9 +1,9 @@
 {
   "version": "v1-002",
-  "defaultDuration": 10,
+  "defaultDuration": 15,
   "slides": [
-    { "type": "image", "src": "assets/AlloyPT.jpg", "duration": 10 },
-    { "type": "image", "src": "assets/MemberHike.jpg", "duration": 25 },
-    { "type": "image", "src": "assets/ReferralPromoV2.jpg", "duration": 15 }
+    { "type": "image", "src": "Assets/AlloyPT.jpg", "duration": 10 },
+    { "type": "image", "src": "Assets/MemberHike.jpg", "duration": 25 },
+    { "type": "image", "src": "Assets/ReferralPromoV2.jpg", "duration": 15 }
   ]
 }
