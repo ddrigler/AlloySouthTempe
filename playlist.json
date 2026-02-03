@@ -1,0 +1,9 @@
+{
+  "version": "v1-002",
+  "defaultDuration": 10,
+  "slides": [
+    { "type": "image", "src": "assets/AlloyPT.jpg", "duration": 10 },
+    { "type": "image", "src": "assets/MemberHike.jpg", "duration": 25 },
+    { "type": "image", "src": "assets/ReferralPromoV2.jpg", "duration": 15 }
+  ]
+}
